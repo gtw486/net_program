@@ -1,0 +1,28 @@
+[33mcommit 7bab5b19de979b852c26d1b4896b213ec302cd0f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Soojin Han <gtw486@sch.ac.kr>
+Date:   Tue Mar 11 11:13:45 2025 +0900
+
+    message3
+
+ hello.txt  | 2 [32m+[m[31m-[m
+ hello1.txt | 1 [32m+[m
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+
+[33mcommit a996848c98bf51dfd816633c07968748adc5215b[m
+Author: Soojin Han <gtw486@sch.ac.kr>
+Date:   Tue Mar 11 11:10:58 2025 +0900
+
+    message2
+
+ hello.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 207a7a43177a5b20e465024a565c5790134a4579[m
+Author: Soojin Han <gtw486@sch.ac.kr>
+Date:   Tue Mar 11 11:08:11 2025 +0900
+
+    message 1
+
+ .gitignore | 1 [32m+[m
+ hello.txt  | 1 [32m+[m
+ 2 files changed, 2 insertions(+)
