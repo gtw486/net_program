@@ -1,0 +1,11 @@
+a = 'My name is Soojin Han'
+print(len(a))
+print(a*10)
+print(a[:1])
+print(a[:4])
+print(a[len(a) - 4:])
+print(a[::-1])
+print(a[1:len(a) - 1])
+print(a.upper())
+print(a.lower())
+print(a.replace('a','e'))
