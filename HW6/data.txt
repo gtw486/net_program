@@ -1,0 +1,40 @@
+Mon Apr  7 12:14:23 2025: Device1: Temp=2, Humid=78, Iilum=137
+Mon Apr  7 12:14:26 2025: Device2: Heartbeat=71, Steps=4304, Cal=2529
+Mon Apr  7 12:14:31 2025: Device1: Temp=14, Humid=99, Iilum=150
+Mon Apr  7 12:14:36 2025: Device2: Heartbeat=65, Steps=2244, Cal=2665
+Mon Apr  7 12:17:12 2025: Device1: 4,95,70
+Mon Apr  7 12:17:13 2025: Device2: 124,3553,3171
+Mon Apr  7 12:17:15 2025: Device1: 4,45,127
+Mon Apr  7 12:17:15 2025: Device2: 125,3678,3125
+Mon Apr  7 12:17:16 2025: Device2: 124,3257,2422
+Mon Apr  7 12:17:16 2025: Device1: 34,95,125
+Mon Apr  7 12:18:08 2025: Device2: 46,2304,2509
+Mon Apr  7 12:18:09 2025: Device2: 73,2363,2126
+Mon Apr  7 12:18:09 2025: Device1: 7,55,149
+Mon Apr  7 12:18:09 2025: Device1: 37,72,98
+Mon Apr  7 12:18:12 2025: Device1: 15,61,116
+Mon Apr  7 12:18:12 2025: Device2: 120,2948,1540
+Mon Apr  7 12:18:13 2025: Device1: 22,90,125
+Mon Apr  7 12:18:15 2025: Device2: 84,5775,1580
+Mon Apr  7 12:18:20 2025: Device1: 8,52,141
+Mon Apr  7 12:18:20 2025: Device1: 35,5,149
+Mon Apr  7 12:18:22 2025: Device2: 136,3272,3469
+Mon Apr  7 12:18:22 2025: Device1: 25,97,77
+Mon Apr  7 12:18:23 2025: Device2: 56,5436,1566Mon Apr  7 13:36:13 2025: Device1: 27,58,131
+Mon Apr  7 13:36:14 2025: Device2: 108,2102,1731
+Mon Apr  7 13:36:15 2025: Device1: 22,30,121
+Mon Apr  7 13:36:16 2025: Device1: 2,86,70
+Mon Apr  7 13:36:17 2025: Device2: 76,4227,2453
+Mon Apr  7 13:36:18 2025: Device1: 39,21,98
+Mon Apr  7 13:36:19 2025: Device2: 92,5218,3595
+Mon Apr  7 13:36:23 2025: Device1: 12,69,109
+Mon Apr  7 13:36:24 2025: Device2: 133,4774,2003
+Mon Apr  7 13:36:25 2025: Device1: 18,67,106
+Mon Apr  7 13:36:26 2025: Device2: 112,3175,2125
+Mon Apr  7 15:00:49 2025: Device1: 4,23,87
+Mon Apr  7 15:00:50 2025: Device2: 59,4613,1685
+Mon Apr  7 15:00:51 2025: Device2: 117,2912,1559
+Mon Apr  7 15:00:52 2025: Device1: 14,72,99
+Mon Apr  7 15:00:53 2025: Device2: 115,2087,3956
+Mon Apr  7 15:00:54 2025: Device1: 8,21,101
+Mon Apr  7 15:00:54 2025: Device2: 122,2598,1147
